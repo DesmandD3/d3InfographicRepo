@@ -27,8 +27,9 @@ template_textBubble.innerHTML = `
 </style>
 
 <div class='text-bubble'>
-<div>O</div>
+
 </div>
+<div>O</div>
 
 `;
 
