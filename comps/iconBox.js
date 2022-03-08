@@ -3,6 +3,16 @@ var template_iconBox = document.createElement("template"); //<template> </templa
 
 //To-do - CREATE THE UI HERE!
 template_iconBox.innerHTML = `
+<style>
+    .iconBox {
+        border-style:solid;
+        width: 300px;
+        height: 300px;
+    }
+</style>
+
+<div class='iconBox'></div>
+
 `;
 
 //MUST HAVE - CREATE A CLASS WITH HTMLELEMENT POWERS (interfaces/functionalities)
