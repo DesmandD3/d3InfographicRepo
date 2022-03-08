@@ -11,7 +11,7 @@ template_iconBox.innerHTML = `
     }
 </style>
 
-<div class='iconBox'></div>
+<img class='iconBox'></img>
 
 `;
 
